@@ -1,0 +1,15 @@
+{
+  "Badges.js": "http://0.0.0.0:8080/packs/Badges.js",
+  "Dashboard.css": "http://0.0.0.0:8080/packs/Dashboard.css",
+  "Dashboard.js": "http://0.0.0.0:8080/packs/Dashboard.js",
+  "Friends.js": "http://0.0.0.0:8080/packs/Friends.js",
+  "LifetimeStats.js": "http://0.0.0.0:8080/packs/LifetimeStats.js",
+  "TimeSeriesBarChart.js": "http://0.0.0.0:8080/packs/TimeSeriesBarChart.js",
+  "application.js": "http://0.0.0.0:8080/packs/application.js",
+  "dummyData.js": "http://0.0.0.0:8080/packs/dummyData.js",
+  "glyphicons-halflings-regular.eot": "http://0.0.0.0:8080/packs/glyphicons-halflings-regular.eot",
+  "glyphicons-halflings-regular.svg": "http://0.0.0.0:8080/packs/glyphicons-halflings-regular.svg",
+  "glyphicons-halflings-regular.ttf": "http://0.0.0.0:8080/packs/glyphicons-halflings-regular.ttf",
+  "glyphicons-halflings-regular.woff": "http://0.0.0.0:8080/packs/glyphicons-halflings-regular.woff",
+  "glyphicons-halflings-regular.woff2": "http://0.0.0.0:8080/packs/glyphicons-halflings-regular.woff2"
+}
